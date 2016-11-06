@@ -1,0 +1,51 @@
+@media screen and (min-width : 568px) and (max-width: 900px)  {
+
+	/* baner ===============>>>>>> */
+	
+	.banner h1{
+		width: 200px;
+		font-size: 60px;
+		padding: 0 40px 10px;
+	}
+	/* MODAL  ===============>>>>>> */
+	.frame{
+		width: 70%;
+	}
+	.big-img{
+		width: 400px;
+	}
+	.close{
+		width: 5%;
+	}
+
+	/* portfolio ===============>>>>>> */
+
+	.portfolio_item{
+		width: 360px;
+		margin: auto;
+		padding-bottom: 10px;
+	}
+	/* contact ===============>>>>>> */
+
+	.contact form {
+		width: 65%;
+	}
+	.btn-submit{
+		display: block;
+		margin: auto;
+	}
+	.check-box-lable{
+		display: block;
+		width: 170px;
+		margin: auto;
+	}
+
+	/* footer ===============>>>>>> */
+
+	.footer ul{
+		padding-right: 40px;
+	}
+	.final_text{
+		padding-left: 40px;
+	}
+}

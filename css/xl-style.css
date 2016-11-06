@@ -1,0 +1,52 @@
+@media screen and (min-width: 1200px)  {
+	
+	.container{
+		width: 1200px;
+	}
+
+	/* baner ===============>>>>>> */
+
+	.banner h1{
+		width: 400px;
+		font-size: 100px;
+		padding: 100px 35px 0px;
+	}
+	/* MODAL  ===============>>>>>> */
+	.frame{
+		width: 50%;
+	}
+	.big-img{
+		width: 600px;
+	}
+	.close{
+		width: 3%;
+	}
+	/* feature ===============>>>>>> */
+
+	.fiature_item{
+		float: left;
+		width: 33.333%;
+	}
+
+	/* portfolio ===============>>>>>> */
+
+	.portfolio_item{
+		float: left;
+		width: 31%;
+		padding: 6px 13px;
+	}
+	.hidden{
+		top: 6px;
+		left: 19px;
+	}
+	/* contact ===============>>>>>> */
+	.contact form{
+		width: 50%;
+	}
+	.check-box-lable{
+		float: left;
+	}
+	.btn-submit{
+		float: right;
+	}
+}

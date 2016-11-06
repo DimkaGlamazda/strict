@@ -1,0 +1,60 @@
+@media screen and (min-width : 320px) and (max-width : 568px)   {
+	.container{
+		width: 100%;
+	}
+
+	/* baner ===============>>>>>> */
+
+	.banner h1{
+		width: 150px;
+		font-size: 40px;
+		padding: 0 10px 10px;
+	}
+	.banner p{
+		width: 80%;
+	}
+	
+	/* MODAL  ===============>>>>>> */
+
+	.frame{
+		width: 80%;
+	}
+	.big-img{
+		width: 360px;
+	}
+	.close{
+		width: 10%;
+	}
+
+	/* portfolio ===============>>>>>> */
+
+	.portfolio_item{
+		width: 360px;
+		margin: auto;
+		padding-bottom: 10px;
+	}
+
+	/* contact ===============>>>>>> */
+
+	.contact form{
+		width: 70%;
+	}
+	.btn-submit{
+		display: block;
+		margin: auto;
+	}
+	.check-box-lable{
+		display: block;
+		width: 170px;
+		margin: auto;
+	}
+
+	/* footer ===============>>>>>> */
+
+	.footer ul{
+		padding-right: 10px;
+	}
+	.final_text{
+		padding-left: 10px;
+	}
+}
