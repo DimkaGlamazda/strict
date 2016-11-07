@@ -17,7 +17,9 @@
 	/* MODAL  ===============>>>>>> */
 
 	.frame{
-		width: 80%;
+		width: 100%;
+		margin-top: 25%;
+		padding: 10px 0;
 	}
 	.big-img{
 		width: 360px;
@@ -33,6 +35,19 @@
 		margin: auto;
 		padding-bottom: 10px;
 	}
+	.hidden{
+		display: block;
+		background-color: rgba(43,172,250, 0);
+	}
+	.portfolio-controls{
+		width: 100px;
+		margin: auto;
+		padding: 155px 0 0 270px;
+	}
+	.link,
+	.zoom{
+		background-color: rgba(43,172,250, 0.5);
+	}
 
 	/* contact ===============>>>>>> */
 
@@ -44,9 +59,9 @@
 		margin: auto;
 	}
 	.check-box-lable{
-		display: block;
-		width: 170px;
+		width: 80%;
 		margin: auto;
+		text-align: center;
 	}
 
 	/* footer ===============>>>>>> */

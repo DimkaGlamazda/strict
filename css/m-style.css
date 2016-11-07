@@ -7,6 +7,7 @@
 		font-size: 60px;
 		padding: 0 40px 10px;
 	}
+	
 	/* MODAL  ===============>>>>>> */
 	.frame{
 		width: 70%;
@@ -25,6 +26,20 @@
 		margin: auto;
 		padding-bottom: 10px;
 	}
+	.hidden{
+		display: block;
+		background-color: rgba(43,172,250, 0);
+	}
+	.portfolio-controls{
+		width: 100px;
+		margin: auto;
+		padding: 155px 0 0 270px;
+	}
+	.link,
+	.zoom{
+		background-color: rgba(43,172,250, 0.5);
+	}
+
 	/* contact ===============>>>>>> */
 
 	.contact form {
@@ -36,8 +51,9 @@
 	}
 	.check-box-lable{
 		display: block;
-		width: 170px;
+		width: 80%;
 		margin: auto;
+		text-align: center;
 	}
 
 	/* footer ===============>>>>>> */
