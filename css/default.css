@@ -252,6 +252,7 @@ textarea{
 	background-color: #15a4fa;
 }
 .check-box-lable{
+	display: block;
 	padding: 10px 0 20px;
 	width: 50%;
 }
